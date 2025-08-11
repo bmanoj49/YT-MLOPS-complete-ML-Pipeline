@@ -1,0 +1,4 @@
+[core]
+    remote = mydvcbucket-1994
+['remote "mydvcbucket-1994"']
+    url = s3://mydvcbucket-1994
